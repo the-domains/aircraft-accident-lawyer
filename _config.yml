@@ -1,6 +1,6 @@
 name: Aircraft Accident Lawyer
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7623
 typography_spectrum: 0.7037041217554361
 title: Aircraft Accident Lawyer - News and Tips
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#d2c6b8'
-    - '#413634'
-    - '#b4a399'
-    - '#936142'
+    - '#4c4f58'
+    - '#29272d'
+    - '#fefefe'
+    - '#6a8b7a'
+    - '#9e9c8e'
   brandStrength: 0.7090682312846184
   lightness: 0.557458135066554
   saturation: 0.0066983450669795275
